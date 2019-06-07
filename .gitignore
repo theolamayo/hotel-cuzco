@@ -1,1 +1,17 @@
-out
+# python
+*__pycache__*
+*.py[cod]
+*$py.class
+*.egg-info*
+
+# tools
+.mypy_cache
+doc/_build/
+.coverage
+htmlcov
+
+# editors
+.idea
+*~
+.vscode
+tags*
